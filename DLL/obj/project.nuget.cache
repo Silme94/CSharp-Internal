@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWrLtlY1mus=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salaheddine\\Desktop\\dll\\DLL\\DLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.0-preview.3.24172.9\\microsoft.dotnet.ilcompiler.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0-preview.3.24172.9\\microsoft.net.illink.tasks.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.0-preview.3.24172.9\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0-preview.3.24172.9\\microsoft.netcore.app.runtime.win-x64.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.0-preview.3.24172.9\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0-preview.3.24175.3\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0-preview.3.24175.3.nupkg.sha512",
+    "C:\\Users\\Salaheddine\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0-preview.3.24172.13\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0-preview.3.24172.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\DLL.AssemblyInfoInputs.cache
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\DLL.AssemblyInfo.cs
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Salaheddine\Desktop\dll\DLL\bin\Release\net9.0\win-x64\DLL.deps.json
+C:\Users\Salaheddine\Desktop\dll\DLL\bin\Release\net9.0\win-x64\DLL.dll
+C:\Users\Salaheddine\Desktop\dll\DLL\bin\Release\net9.0\win-x64\DLL.pdb
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\DLL.dll
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\refint\DLL.dll
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\DLL.pdb
+C:\Users\Salaheddine\Desktop\dll\DLL\obj\Release\net9.0\win-x64\ref\DLL.dll

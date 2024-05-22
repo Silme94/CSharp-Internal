@@ -1,0 +1,14 @@
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.AssemblyInfoInputs.cache
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.AssemblyInfo.cs
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.csproj.CoreCompileInputs.cache
+C:\Users\Salaheddine\Desktop\dll\Injector\bin\Debug\net9.0\Injector.exe
+C:\Users\Salaheddine\Desktop\dll\Injector\bin\Debug\net9.0\Injector.deps.json
+C:\Users\Salaheddine\Desktop\dll\Injector\bin\Debug\net9.0\Injector.runtimeconfig.json
+C:\Users\Salaheddine\Desktop\dll\Injector\bin\Debug\net9.0\Injector.dll
+C:\Users\Salaheddine\Desktop\dll\Injector\bin\Debug\net9.0\Injector.pdb
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.dll
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\refint\Injector.dll
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.pdb
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\Injector.genruntimeconfig.cache
+C:\Users\Salaheddine\Desktop\dll\Injector\obj\Debug\net9.0\ref\Injector.dll
